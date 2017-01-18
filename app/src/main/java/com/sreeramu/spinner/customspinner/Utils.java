@@ -1,4 +1,4 @@
-package com.sreeramu.spinner.materialspinner;
+package com.sreeramu.spinner.customspinner;
 
 import android.content.Context;
 import android.graphics.Color;

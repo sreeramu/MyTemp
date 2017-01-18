@@ -1,4 +1,4 @@
-package com.sreeramu.spinner.materialspinner;
+package com.sreeramu.spinner.customspinner;
 
 import android.animation.ObjectAnimator;
 import android.content.Context;

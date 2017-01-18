@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
 
-import com.sreeramu.spinner.materialspinner.CustomSpinner;
+import com.sreeramu.spinner.customspinner.CustomSpinner;
 
 public class MainActivity extends AppCompatActivity {
     private static final String[] ANDROID_VERSIONS = {
